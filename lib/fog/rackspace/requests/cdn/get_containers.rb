@@ -1,6 +1,6 @@
 module Fog
-  module CDN
-    class Rackspace
+  module Rackspace
+    class CDN
       class Real
         # List existing cdn-enabled storage containers
         #

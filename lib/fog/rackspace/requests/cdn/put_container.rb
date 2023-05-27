@@ -1,6 +1,6 @@
 module Fog
-  module CDN
-    class Rackspace
+  module Rackspace
+    class CDN
       class Real
         # enable CDN for a container
         #
